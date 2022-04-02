@@ -11,11 +11,13 @@ The purpose of this Challenge is to create a NYC Citibike Bikesharing story to c
 
 **5  Visualizations created in Deliverable 2**
 * Checkout Times for Users
-![Checkout Times for Users](https://user-images.githubusercontent.com/95068439/161351461-524c1bab-6cea-4948-94ec-0fcdca0e8a73.png)
+![Checkout Times for Users (1)](https://user-images.githubusercontent.com/95068439/161392561-9dbc73bc-0c56-4988-96ea-22f99e2662d4.png)
+> As we can see that majority of the trips only last about less than an hour, mostly about 15 minutes or so. 
 
 
 * Checkout Times by Gender
-![Checkout Times by Gender](https://user-images.githubusercontent.com/95068439/161351608-91952b58-3277-4588-bfc5-ce43fbf5ab4a.png)
+![Checkout Times by Gender (1)](https://user-images.githubusercontent.com/95068439/161392626-178c91e0-6cec-4870-ad15-7762dfffe7ce.png)
+>As we can see on the graph, the Trip Duration for both genders usually last about 10-15 minutes. Male dominates the number of Trips. 
 
 
 * Trips by Weekday per Hour
@@ -51,7 +53,7 @@ As we can see from this bar graph, `The Top Ten Starting Trips Location` are all
 
 > Tableau Public URL: 
 
-[`Module 14 Chalenge - NYC Citibike Analysis & Story`](https://public.tableau.com/app/profile/wilson.alexei/viz/Module14Challenge_16488502378540/NYCCitibikeAnalysis?publish=yes). 
+[`Module 14 Chalenge - NYC Citibike Analysis & Story`](https://public.tableau.com/app/profile/wilson.alexei/viz/NYCCitibikeAnalysisChallenge_16489174388490/CheckoutTimesforUsers?publish=yes). 
 
 `LinkedIn: /www.linkedin.com/in/wilson-alexei/`
 
