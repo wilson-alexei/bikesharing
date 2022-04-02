@@ -53,7 +53,7 @@ As we can see from this bar graph, `The Top Ten Starting Trips Location` are all
 
 > Tableau Public URL: 
 
-[`Module 14 Chalenge - NYC Citibike Analysis & Story`](https://public.tableau.com/app/profile/wilson.alexei/viz/NYCCitibikeAnalysisChallenge_16489174388490/CheckoutTimesforUsers?publish=yes). 
+[`Module 14 Chalenge - NYC Citibike Analysis & Story`](https://public.tableau.com/app/profile/wilson.alexei/viz/NYCCitibikeAnalysisChallenge_16489174388490/NYCCitibikeStory?publish=yes). 
 
 `LinkedIn: /www.linkedin.com/in/wilson-alexei/`
 
