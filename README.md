@@ -43,16 +43,16 @@ The purpose of this Challenge is to create a NYC Citibike Bikesharing story to c
 
 
 ## Summary
+> From the graphs, we can see that most Citibike users are located in Manhattan during rush hours on the weekdays by Male. This implies that Citibike is becoming an alternative system of transportation to commute to and from work in the city considering possibly how faster and more accessible the Citibikes are. 
+![Top Ten Starting Trips Location](https://user-images.githubusercontent.com/95068439/161355258-c203680e-94e2-4729-a94e-51990c1ba4d0.png)
 
-
-
-
-
-
-
-
+As we can see from this bar graph, `The Top Ten Starting Trips Location` are all located in Midtown and Downtown area of Manhattan where their destination is close enough by bike instead of car or subway trains. We can see from the `Top Starting Location` Graph that the Citibike usages are slowly spreading outside Manhattan. We can monitor the devlopments of the usages in the next couple of months to potentialy add more Citibike stations outside Manhattan. We also need to consider how weather will change the Citibike usages in the city. 
 
 
 > Tableau Public URL: 
 
 [`Module 14 Chalenge - NYC Citibike Analysis & Story`](https://public.tableau.com/app/profile/wilson.alexei/viz/Module14Challenge_16488502378540/NYCCitibikeAnalysis?publish=yes). 
+
+`LinkedIn: /www.linkedin.com/in/wilson-alexei/`
+
+`Email: wils.alexei@gmail.com`
